@@ -10,8 +10,7 @@ This project caters to individuals and businesses seeking an efficient way to ha
 a Streamlit app that uses OCR to extract data from business cards and saves it to a database, making information management easier.
 benifits:BizCardX offers increased efficiency in managing business card information by automating data entry through OCR and providing a central storage solution in a database.
 
-#*#
-Here's the workflow of the provided BizCardX code:
+#*#the workflow of the BizCardX code:
 
 Set Up Environment:
 Install required libraries (pandas, streamlit, streamlit_option_menu, easyocr, mysql.connector, PIL, OpenCV, matplotlib).
